@@ -16,3 +16,6 @@ Thumbs.db
 
 # Secrets (never commit these)
 .env
+
+# Generated file (recreate with src/clean_data.py)
+data/student-por-clean.csv
